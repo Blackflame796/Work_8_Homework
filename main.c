@@ -2,7 +2,7 @@
 #include <math.h>
 #include <locale.h>
 
-int main() 
+int main()
 {
     setlocale(LC_ALL, "RUS");
     int n;
